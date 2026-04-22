@@ -23,7 +23,7 @@ I should probably make this more serious, but for now while I am learning, my 10
 
 May you be as happy with your day as a hamster with a cheezit, folks! 
 
- 
+ ![curious hamster](assets/curious_hamster.jpg "curiouser!!")
 
 
 <!--
