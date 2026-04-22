@@ -19,7 +19,7 @@ My first academic love was biology. I even went so far as to get a PhD in Ecolog
 
 I should probably make this more serious, but for now while I am learning, my 10 year old and I agree that there's something about hamsters that is super funny!
 
-![hamster with big cheeks](https://pbs.twimg.com/media/D22T2wsWwAE3oEz.jpg "those cheeks!!")
+![hamster with big cheeks](assets/hamster.jpg "those cheeks!!")
 
 May you be as happy with your day as a hamster with a cheezit, folks! 
 
